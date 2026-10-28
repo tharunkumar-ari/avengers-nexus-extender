@@ -1,0 +1,19 @@
+{
+  "name": "Avengers Nexus \u2014 Personal Command Center",
+  "short_name": "Nexus",
+  "description": "Daily missions, focus sessions, projects, notes, and personal progress.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#08090d",
+  "theme_color": "#08090d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
